@@ -15,54 +15,54 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 
 ## Topics
 ```
-[ ] What do you know about Java?
-[ ] What are the supported platforms by Java Programming Language?
-[ ] List any five features of Java?
-[ ] Why is Java Architectural Neutral?
-[ ] How Java enabled High Performance?
-[ ] Why Java is considered dynamic?
-[ ] What is Java Virtual Machine and how it is considered in context of Java’s platform independent feature?
-[ ] List two Java IDE’s?
-[ ] List some Java keywords(unlike C, C++ keywords)?
-[ ] What do you mean by Object?
-[ ] Define class?
-[ ] What kind of variables a class can consist of?
-[ ] What is a Local Variable?
-[ ] What is a Instance Variable?
-[ ] What is a Class Variable?
-[ ] What is Singleton class?
-[ ] What do you mean by Constructor?
-[ ] List the three steps for creating an Object for a class?
-[ ] What is the default value of byte datatype in Java?
-[ ] What is the default value of float and double datatype in Java?
-[ ] When a byte datatype is used?
-[ ] What is a static variable?
-[ ] What do you mean by Access Modifier?
-[ ] What is protected access modifier?
-[ ] What do you mean by synchronized Non Access Modifier?
-[ ] According to Java Operator precedence, which operator is considered to be with highest precedence?
-[ ] Variables used in a switch statement can be used with which datatypes?
-[ ] When parseInt() method can be used?
-[ ] Why is String class considered immutable?
-[ ] Why is StringBuffer called mutable?
-[ ] What is the difference between StringBuffer and StringBuilder class?
-[ ] Which package is used for pattern matching with regular expressions?
-[ ] java.util.regex consists of which classes?
-[ ] What is finalize() method?
-[ ] What is an Exception?
-[ ] What do you mean by Checked Exceptions?
-[ ] Explain Runtime Exceptions?
-[ ] Which are the two subclasses under Exception class?
-[ ] When throws keyword is used?
-[ ] When throw keyword is used?
-[ ] How finally used under Exception Handling?
-[ ] What things should be kept in mind while creating your own exceptions in Java?
-[ ] Define Inheritance?
-[ ] When super keyword is used?
-[ ] What is Polymorphism?
-[ ] What is Abstraction?
-[ ] What is Abstract class?
-[ ] When Abstract methods are used?
+[x] What do you know about Java?
+[x] What are the supported platforms by Java Programming Language?
+[x] List any five features of Java?
+[x] Why is Java Architectural Neutral?
+[x] How Java enabled High Performance?
+[x] Why Java is considered dynamic?
+[x] What is Java Virtual Machine and how it is considered in context of Java’s platform independent feature?
+[x] List two Java IDE’s?
+[x] List some Java keywords(unlike C, C++ keywords)?
+[x] What do you mean by Object?
+[x] Define class?
+[x] What kind of variables a class can consist of?
+[x] What is a Local Variable?
+[x] What is a Instance Variable?
+[x] What is a Class Variable?
+[x] What is Singleton class?
+[x] What do you mean by Constructor?
+[x] List the three steps for creating an Object for a class?
+[x] What is the default value of byte datatype in Java?
+[x] What is the default value of float and double datatype in Java?
+[x] When a byte datatype is used?
+[x] What is a static variable?
+[x] What do you mean by Access Modifier?
+[x] What is protected access modifier?
+[x] What do you mean by synchronized Non Access Modifier?
+[x] According to Java Operator precedence, which operator is considered to be with highest precedence?
+[x] Variables used in a switch statement can be used with which datatypes?
+[x] When parseInt() method can be used?
+[x] Why is String class considered immutable?
+[x] Why is StringBuffer called mutable?
+[x] What is the difference between StringBuffer and StringBuilder class?
+[x] Which package is used for pattern matching with regular expressions?
+[x] java.util.regex consists of which classes?
+[x] What is finalize() method?
+[x] What is an Exception?
+[x] What do you mean by Checked Exceptions?
+[x] Explain Runtime Exceptions?
+[x] Which are the two subclasses under Exception class?
+[x] When throws keyword is used?
+[x] When throw keyword is used?
+[x] How finally used under Exception Handling?
+[x] What things should be kept in mind while creating your own exceptions in Java?
+[x] Define Inheritance?
+[x] When super keyword is used?
+[x] What is Polymorphism?
+[x] What is Abstraction?
+[x] What is Abstract class?
+[x] When Abstract methods are used?
 [ ] What is Encapsulation?
 [ ] What is the primary benefit of Encapsulation?
 [ ] What is an Interface?
